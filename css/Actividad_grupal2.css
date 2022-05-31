@@ -1,0 +1,42 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px;
+    border: solid 4px silver;
+
+}
+
+div.contenido{
+    background-color: silver;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center; 
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    background-color: silver;
+    color: aliceblue;
+}
+p{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul{
+    font-size: 18px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: cadetblue;
+}
+h2.diario{
+    text-align: left;
+}
+ol{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+video{
+    width: 500px;
+}
